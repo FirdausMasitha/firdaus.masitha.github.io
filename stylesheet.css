@@ -1,0 +1,45 @@
+body{
+ 
+        font-family: 'Times New Roman', Times, serif;
+        text-decoration: none; background-image: url("Background.jpg"); background-size: cover; 
+        background-attachment: fixed; text-decoration: none;
+    }
+    
+.header {
+    background-color: rgba(255, 255, 255, 0.7);
+    color: black;
+    height: 90px;
+}
+.header-logo {
+    float: left;
+    font-family: 'cursive';
+    font-style: italic;
+    font-weight: bold;
+    font-size: 36px;
+    padding: 20px 40px;
+}
+.header-list li{
+    list-style: none; float:left; padding: 33px 20px;
+}
+.satu {
+    background-color: rgba(255, 255, 255, 0.7);
+    width: 800px;
+    color: black;
+    margin: 20px auto;
+    padding: 15px;
+}
+.satu li {
+    list-style: inside; line-height: 40px;
+}
+
+.welcome{
+    width:200px;
+}
+td {
+    text-align: left; vertical-align: top; 
+}
+.footer {
+    background-color: rgba(255, 255, 255, 0.7);
+    color: black;
+    text-align: center;
+}
